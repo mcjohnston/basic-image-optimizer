@@ -31,5 +31,5 @@ build/Release
 
 ## Ignore modules and images, just keep bare directories
 node_modules
-/src/*.*
-/optimized/*.*
+src/*.*
+optimized/*.*
