@@ -1,0 +1,16 @@
+{
+  "name": "basic-image-optimizer",
+  "version": "1.0.0",
+  "description": "Basic image optimization.",
+  "main": "readme.md",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Johnston",
+  "license": "WTFPL",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-image-optimization": "^0.1.3"
+  }
+}
