@@ -1,6 +1,4 @@
----
 # Basic Image Optimizer
----
 
 1) Clone the repo
 
